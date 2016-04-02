@@ -6,7 +6,11 @@
     "version": "3.2.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "hn": "hexo new",
+    "hg": "hexo generate",
+    "hs": "hexo server",
+    "hd": "hexo deploy -g"
   },
   "engines": {
     "node": "4.4.0"

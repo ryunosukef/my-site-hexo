@@ -28,9 +28,9 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-46663350-2
 favicon: /favicon.png
-twitter:
+twitter: r_fujimoto
 google_plus:
 fb_admins:
 fb_app_id:

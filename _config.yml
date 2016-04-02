@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: gon
+title: My Site
+subtitle: created by Hexo
 description:
-author: Ryunosuke.F 
+author: Ryunosuke.F
 language: ja
 timezone:
 
@@ -63,8 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: tranquilpeak 
-#theme: very-simple 
+#theme: tranquilpeak
+#theme: very-simple
 theme: landscape
 
 # Deployment
